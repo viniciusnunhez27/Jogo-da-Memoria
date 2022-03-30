@@ -1,6 +1,7 @@
 # Jogo da Memória.
 
-> Projeto foi desenvolvido utilizando as tecnlogias HTML, CSS  e JAVASCRIPT
+> Projeto foi desenvolvido utilizando as tecnologias HTML, CSS  e JAVASCRIPT.
+
 
 <div align=center>
 
