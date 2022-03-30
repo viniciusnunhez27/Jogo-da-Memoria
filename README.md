@@ -16,5 +16,5 @@
 
 
 ## ☕ Usando Jogo da Memória 
-Para usar basta acessar o link 
+Para usar basta acessar o link  https://portifolio-joga-da-memoria.netlify.app/
 
